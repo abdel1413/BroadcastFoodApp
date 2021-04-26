@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyFoodBroadcast</string>
+    <string name="add_meal">add_meal</string>
+    <string name="select_image">select_image</string>
+    <string name="description">description</string>
+    <string name="meal_name">meal_name</string>
+    <string name="link">Link</string>
+    <string name="title">Title</string>
+    <string name="textDescription">Description</string>
+    <string name="calory">calory</string>
+
+    <string name="send_custom_broadcast">Send Custom Broadcast</string>
+    <string name="custom_broadcast_toast">Custom Broadcast Received </string>
+    <string name="receiver_on">Receiver On</string>
+    <string name="receiver_off">Receiver Off</string>
+    <string name="unknown_action">Unknown Action </string>
+    <string name="happy_cooking">happy cooking</string>
+
+</resources>
